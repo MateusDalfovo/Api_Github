@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(221, 226, 220); 
+    text-align: center;
+
+}
+
+#busca{
+    width: '100%'; 
+    font-family: serif;
+    font-size: 40px;    
+    text-align: center;
+}
+
+#button{
+    margin-top: 40px;
+    width: 5%;
+    height: 34px;
+    background-color: rgb(56, 146, 79);
+    color: aliceblue;
+    border-radius: 4px;
+}
+
+#profile{
+    height: 30px;
+    width: 15%;
+    border-radius: 4px;
+}
+
+
+#name{
+    height: 30px;
+    width: 20%;
+    margin-top: 30px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#login{
+    height: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#qtdRepositories{
+    height: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#qtdFollowers{
+    height: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#qtdUserFollowing{
+    height: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#linkRepositories{
+    height: 30px;
+    width: 20%;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+img{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
